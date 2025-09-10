@@ -1,1 +1,1 @@
-## Hi there 👋 I am CS student at UCL
+## Hi there 👋 I am studying Computer Science BSc @ UCL
